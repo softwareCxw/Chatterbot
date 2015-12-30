@@ -44,21 +44,21 @@ public class ListViewAdapter  extends BaseAdapter {
 	}
 
 	/**
-	 * �õ�Item�����ͣ��ǶԷ�����������Ϣ�������Լ����ͳ�ȥ��
+	 * 得到Item的类型，是对方发过来的消息，还是自己发送出去的
 	 */
 	public int getItemViewType(int position) {
 		dataTransfer entity = data.get(position);
 
-		if (entity.getRobotUser() == 0) {//�յ�����Ϣ
+		if (entity.getRobotUser() == 0) {//收到的消息
 			return ROBOT;
-		} else if(entity.getRobotUser() == 1){//�Լ����͵���Ϣ
+		} else if(entity.getRobotUser() == 1){//自己发送的消息
 			return USER;
 		}
 		return position;
 	}
 
 	/**
-	 * Item���͵�����
+	 * Item类型的总数
 	 */
 	public int getViewTypeCount() {
 		return ALLITEM;

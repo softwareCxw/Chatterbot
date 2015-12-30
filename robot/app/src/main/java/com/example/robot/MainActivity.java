@@ -22,7 +22,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	private EditText message;
 	private ListView listView;
 	private List<dataTransfer> data = new ArrayList<dataTransfer>();
-	private ListViewAdapter dataAdapter;													//���������
+	private ListViewAdapter dataAdapter;													//数据适配器
 	
 	private String userStr;
 	private String robotStr;
