@@ -1,12 +1,9 @@
-<code>
 /*
 	name : cxw
 	data : 2015/12/29
-	function £º»ùÓÚÍ¼ÁéµÄÁÄÌì»úÆ÷ÈË
+	function ï¼šåŸºäºŽå›¾çµçš„èŠå¤©æœºå™¨äºº
 */
-</code>
+å¤‡æ³¨ï¼šç•Œé¢ä¸ç¾Žè§‚ï¼šä»…ä»…æ˜¯åŠŸèƒ½æµ‹è¯•ï¼Œè°¢è°¢ï¼
 
-±¸×¢£º½çÃæ²»ÃÀ¹Û£º½ö½öÊÇ¹¦ÄÜ²âÊÔ£¬Ð»Ð»£¡
-
-¾ßÌå½ÓÈëÁ÷³Ì²Î¿¼ÎÒÍøÕ¾µÄÎÄÕÂ£º
-<li>¼òµ¥ÁÄÌì»úÆ÷ÈË - ³ÌÐòÔ³ http://www.cxw.asia/2015/12/30/simple-chat-with-robot/</li>
+å…·ä½“æŽ¥å…¥æµç¨‹å‚è€ƒæˆ‘ç½‘ç«™çš„æ–‡ç« ï¼š
+<li>ç®€å•èŠå¤©æœºå™¨äºº - ç¨‹åºçŒ¿ http://www.cxw.asia/2015/12/30/simple-chat-with-robot/</li>
